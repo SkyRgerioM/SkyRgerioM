@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">Atualmente, curso Análise e Desenvolvimento de Sistemas no CEUB , traduzindo a teoria em prática. Sou focado em [Sua Linguagem Principal, Ex: Python/JavaScript] e utilizo Git e GitHub não apenas como ferramentas, mas como meu diário de bordo profissional, garantindo que todo o meu trabalho seja bem versionado, organizado e documentado.</h3>
+<h3 align="left">Atualmente, curso Análise e Desenvolvimento de Sistemas no CEUB , traduzindo a teoria em prática. Sou focado em  JavaScript e utilizo Git e GitHub não apenas como ferramentas, mas como meu diário de bordo profissional, garantindo que todo o meu trabalho seja bem versionado, organizado e documentado.</h3>
 
 ###
 
