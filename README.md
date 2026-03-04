@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">💻 A Disciplina do Código<br>Minha jornada em T.I. não é recente; ela começou há anos com uma dedicação de três anos em tempo integral no IFB (Instituto Federal de Brasília). Essa formação de base me ensinou o valor da disciplina e do aprofundamento técnico.</p>
+<p align="left">💻 A Disciplina do Código<br>Minha jornada em T.I. não é recente, Técnico em Informática pelo IFB (Instituto Federal de Brasília), com uma formação intensiva de três anos em tempo integral. Essa formação de base me ensinou o valor da disciplina e do aprofundamento técnico.</p>
 
 ###
 
