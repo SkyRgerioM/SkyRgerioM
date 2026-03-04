@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Atualmente, curso Análise e Desenvolvimento de Sistemas no CEUB , traduzindo a teoria em prática. Sou focado em  JavaScript e utilizo Git e GitHub </h3>
+<h3 align="left">Atualmente, curso Análise e Desenvolvimento de Sistemas no CEUB , estudando (HTML, CSS , JavaScript Oracle e SQL ) </h3>
 
 ###
 
